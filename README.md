@@ -6,6 +6,8 @@
 
 想找一款**稳定好用的翻墙VPN**？最近很多人都在问**快连VPN怎么样**、**快连加速器好不好用**、**LetsVPN靠谱吗**。作为一款主打“永远能连上”的科学上网工具，快连VPN（产品名Lets World VPN / LetsVPN）在中国用户群体中热度很高。今天我们就从速度、稳定性、安全性、服务器覆盖、价格、优缺点等多个维度，做一次全面的**快连VPN深度测评**，帮你判断它是否值得入手。
 
+![](https://raw.githubusercontent.com/modporbme/kuailian/main/kuailian/0.jpg)
+
 ---
 
 ## 一、快连VPN是什么？品牌背景介绍
