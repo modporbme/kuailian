@@ -18,7 +18,7 @@
 
 与ExpressVPN、NordVPN这类国际大牌相比，快连VPN更强调对中国用户的友好性——支持支付宝支付、操作极度简化、短期套餐灵活，因此在“中国可用VPN”“稳定翻墙工具”等搜索关键词下经常出现。
 
-官方正版网站请认准：[https://letsvpn.wiki](https://letsvpn.wiki/)
+官方正版网站请认准：[letsvpn.wiki](https://letsvpn.wiki/)
 
 ![](https://raw.githubusercontent.com/modporbme/kuailian/main/kuailian/1.jpg)
 
